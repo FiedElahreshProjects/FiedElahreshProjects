@@ -9,7 +9,7 @@ I'm a passionate developer in my second year at the University of Windsor studyi
 
 
 ## 🚀 Projects
-- **Interview.me**: Mock interview application with A.I (repository currently privated).
+- **Interview.me**: Mock interview application with A.I (repository currently privated, will be hosted very soon).
 - **[Safeguarding Medical Data](https://github.com/FiedElahreshProjects/GlendorInternship_Summer2024)**: Study done during internship to conclude efficacy of defacing algorithms on CT Scans.
 - **[BitcoinTrader](https://github.com/your-username/weather-app)**: Bitcoin Trading Bot based on technical analysis (Moving Averages and RSI) and Sentiment Analysis from Popular Social Media Sites, made **$7,000** in profit when backtesting from 2022-2023!
 
@@ -18,7 +18,7 @@ I'm a passionate developer in my second year at the University of Windsor studyi
 - Frontend: React, TailwindCSS, HTML5, CSS3
 - Backend: Node.js, Express, FastAPI
 - Databases: PostgreSQL, MySQL
-- Tools: Pandas, Express, Git, MongoDB, NumPy, MatplotLib, NiBabel, GitHub, UNIX CLI
+- Tools: Pandas, Express, Git, MongoDB, NumPy, MatplotLib, GitHub, UNIX CLI
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 &nbsp;&nbsp;
