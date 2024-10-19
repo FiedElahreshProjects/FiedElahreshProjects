@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Fied
 
 I'm a passionate developer in my second year at the University of Windsor studying Computer Science. I love building projects with a focus on Machine Learning and Full-stack development!
 
