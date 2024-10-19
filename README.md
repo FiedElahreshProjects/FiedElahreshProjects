@@ -28,6 +28,7 @@ I'm a passionate developer in my second year at the University of Windsor studyi
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=machine-learning&logoColor=white&style=flat-square)
 
+
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fied-elahresh-8b2907294/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:elahres1@uwindsor.ca)
