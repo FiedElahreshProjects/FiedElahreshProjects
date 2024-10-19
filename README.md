@@ -13,7 +13,7 @@ I'm a passionate developer in my second year at the University of Windsor studyi
 - **[Safeguarding Medical Data](https://github.com/FiedElahreshProjects/GlendorInternship_Summer2024)**: Study done during internship to conclude efficacy of defacing algorithms on CT Scans.
 - **[BitcoinTrader](https://github.com/your-username/weather-app)**: Bitcoin Trading Bot based on technical analysis (Moving Averages and RSI) and Sentiment Analysis from Popular Social Media Sites, made **$7,000** in profit when backtesting from 2022-2023!
 
-  ## 🛠 Skills & Technologies
+## 🛠 Skills & Technologies
 - Languages: JavaScript, Python, Java, C, TypeScript
 - Frontend: React, TailwindCSS, HTML5, CSS3
 - Backend: Node.js, Express, FastAPI
