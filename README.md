@@ -40,6 +40,6 @@ I'm a passionate developer in my second year at the University of Windsor studyi
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:elahres1@uwindsor.ca)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://elahresh.netlify.app/)
 
 
