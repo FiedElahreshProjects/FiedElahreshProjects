@@ -21,17 +21,25 @@ I'm a passionate developer in my second year at the University of Windsor studyi
 - Tools: Pandas, Express, Git, MongoDB, NumPy, MatplotLib, NiBabel, GitHub, UNIX CLI
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+&nbsp;&nbsp;
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)'
+&nbsp;&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
+&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
+&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
+&nbsp;&nbsp;
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=machine-learning&logoColor=white&style=flat-square)
 
 
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fied-elahresh-8b2907294/)
+&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:elahres1@uwindsor.ca)
+&nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 
