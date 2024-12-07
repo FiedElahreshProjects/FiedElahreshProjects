@@ -5,13 +5,13 @@ I'm a passionate developer in my second year at the University of Windsor studyi
 
 ## 🔭 Currently Working On
 - Developing a full-stack interview application using React, Node.js, and PostgreSQL.
-- Wrapping up a Bitcoin Trading Bot which trades off technical analysis and public sentiment from social media sites like X and Reddit.
+
 
 
 ## 🚀 Projects
 - **Interview.me**: Mock interview application with A.I (repository currently privated, will be hosted very soon).
 - **[Safeguarding Medical Data](https://github.com/FiedElahreshProjects/GlendorInternship_Summer2024)**: Study done during internship to conclude efficacy of defacing algorithms on CT Scans.
-- **[BitcoinTrader](https://github.com/your-username/weather-app)**: Bitcoin Trading Bot based on technical analysis (Moving Averages and RSI) and Sentiment Analysis from Popular Social Media Sites, made **$7,000** in profit when backtesting from 2022-2023!
+- **[BitcoinTrader](https://github.com/FiedElahreshProjects/BitcoinTrader)**: Bitcoin Trading Bot based on technical analysis (Moving Averages and RSI) and Sentiment Analysis from Popular Social Media Sites, made **$7,000** in profit when backtesting from 2022-2023!
 
 ## 🛠 Skills & Technologies
 - Languages: JavaScript, Python, Java, C, TypeScript
