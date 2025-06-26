@@ -4,7 +4,7 @@ I'm a passionate developer in my second year at the University of Windsor studyi
 
 
 ## 🔭 Currently Working On
-- Developing an **Iqraa**, duolingo for religion.
+- Developing **Iqraa**, duolingo for religion, in Swift!
 - Intern at Rocket
 
 
