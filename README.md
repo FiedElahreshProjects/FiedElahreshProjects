@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Fied
 
-I'm a passionate developer in my second year at the University of Windsor studying Computer Science. I love building projects with a focus on Machine Learning and full-stack development!
+I'm a passionate developer in my third year at the University of Windsor studying Computer Science. I love building projects with a focus on Machine Learning and full-stack development!
 
 
 ## 🔭 Currently Working On
